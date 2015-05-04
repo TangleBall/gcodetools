@@ -20,4 +20,5 @@ Unpack and copy all the files to the following directory Program Files\Inkscape\
 
 Linux
 
-Unpack and copy all the files to the following directory /usr/share/inkscape/extensions/ and restart inkscape
+Unpack and save the files to $HOME/.config/inkscape/extensions/Gcodetools and restart inkscape
+
